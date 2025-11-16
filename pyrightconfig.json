@@ -1,0 +1,24 @@
+{
+  "include": [
+    "src",
+    "examples",
+    "tests"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "**/node_modules",
+    "**/venv",
+    "**/.venv"
+  ],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.8",
+      "extraPaths": []
+    }
+  ],
+  "pythonVersion": "3.8",
+  "typeCheckingMode": "basic"
+}
+
+
