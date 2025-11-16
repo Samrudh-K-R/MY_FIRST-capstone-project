@@ -22,8 +22,5 @@ This project is part of the **5-Day AI Agents Intensive Course with Google (Nov 
    python examples/example_usage.py
    `
 
-## Submission Deadline
-
-**December 1, 2025, 11:59 AM PT**
 
 For full documentation, see the README.md file.
